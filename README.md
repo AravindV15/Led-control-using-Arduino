@@ -1,4 +1,7 @@
-# Led-control-using-Arduino
+### NAME: G ARAVIND
+### REG NO: 24003742
+### EXPERIMENT 1
+# Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +61,16 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-
+<img src="https://github.com/user-attachments/assets/5774db84-ac22-457b-be49-9c89c2e90965" width="600" height="400"/>
 ## PROGRAM
-
+<img src="https://github.com/user-attachments/assets/8c15828e-6e21-4fa5-abfe-eb9d8ccb9140" width="600" height="400"/>
 ## OUTPUT
+### LED ON
+
+<img src="https://github.com/user-attachments/assets/bea8c357-6cb3-4430-8d28-0c0a86674cf1" width="600" height="400"/>
+
+### LED OFF
+<img src="https://github.com/user-attachments/assets/932c3786-fa52-4636-ae6c-d093b0fb40d9" width="600" height="400"/>
 
 ## RESULT
+### Design and implement a system for LED control using an Arduino microcontroller and a push button sucessfully
