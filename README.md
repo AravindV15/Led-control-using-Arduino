@@ -1,5 +1,5 @@
-### NAME: G ARAVIND
-### REG NO: 24003742
+### NAME: RAGUL M
+### REG NO: 24008385
 ### EXPERIMENT 1
 # Led control using Arduino
 
